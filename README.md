@@ -1,0 +1,1 @@
+This repository contains the final project for quantum computing. The project explores quantum natural language processing (QNLP) for language translation, specifically focusing on translating sentences from english to french.
